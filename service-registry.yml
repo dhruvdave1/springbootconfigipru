@@ -7,8 +7,3 @@ eureka:
   client:
     register-with-eureka: false
     fetch-registry: false
-# spring:
-#   application:
-#     name: SERVICE-REGISTRY
-#   config:
-#     import: configserver:http://localhost:9296
